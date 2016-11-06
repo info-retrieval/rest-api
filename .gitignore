@@ -107,3 +107,5 @@ tests/.coverage
 build/
 tests/report/
 Contact GitHub API Training Shop Blog About
+
+db.sqlite3
